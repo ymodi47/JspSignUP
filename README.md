@@ -1,2 +1,2 @@
 # JspSignUP
-1st day work
+Introduction to Java Server Page
